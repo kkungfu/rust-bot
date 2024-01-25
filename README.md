@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/Kryod/rustacean.svg?branch=master)](https://travis-ci.org/Kryod/rustacean) [![rust 1.33+ badge]][rust 1.33+ link] [![guild-badge][]][guild]
-
-
 
 [![Discord Bots](https://discordbots.org/api/widget/509051376655925258.svg)](https://discordbots.org/bot/509051376655925258)
 
